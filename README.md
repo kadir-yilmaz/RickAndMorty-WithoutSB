@@ -1,1 +1,7 @@
-# RickAndMorty-WithoutSB
+# Architecture
+MVVM
+
+# Libraries
+- Alamofire
+- AlamofireImage
+- SnapKit
